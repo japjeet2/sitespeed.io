@@ -49,7 +49,6 @@ There was a lot of more that we wanted to fix, but those where the most importan
 We released four new Open Source performance tools. Yep four. Lets talk about them and then get into what we've done with sitespeed.io.
 
 ## The coach
-<img src="{{site.baseurl}}/img/logos/coach.png" class="pull-right img-big" alt="I'm the coach" width="168" height="196">
 YSlow is dead, long live the Coach! The coach helps you find performance problems on your page and gives you advice of what you can do better. We use the coach in sitespeed.io, but what's extra cool is that it can be used by any tool.
 
 The coach gives you advice on how to make your page faster. The coach aims to NEVER give you bad advice. If the world changes, the coach changes. No more wrong rules, instead the right advice. :)

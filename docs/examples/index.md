@@ -1196,7 +1196,6 @@ And it will generate a JSON that looks something like this:
             "https://www.sitespeed.io/img/sitespeed-logo-2c.png",
             "https://www.sitespeed.io/img/sitespeed.io-logo-large2.png",
             "https://www.sitespeed.io/img/pippi.png",
-            "https://www.sitespeed.io/img/logos/coach.png",
             "https://www.sitespeed.io/img/browsertime-ff-chrome.png",
             "https://www.sitespeed.io/img/digital-ocean.png"
           ],
